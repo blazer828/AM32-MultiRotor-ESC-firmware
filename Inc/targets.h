@@ -9,14 +9,14 @@
 //#define HAKRC_2023_G071
 //#define TMOTOR55_F051    // like iflight but with leds
 //#define TMOTOR45_F051
-//#define HGLRC_F051
+#define HGLRC_F051
 //#define SISKIN_F051
 //#define MAMBA_F60PRO_F051
 //#define WRAITH32V2_F051
 //#define AIKON20X20_F051
 //#define AIKONSINGLE_F051
 //#define FLYCOLOR_F051
-#define AM32REF_F051
+//#define AM32REF_F051
 //#define BLPWR_F051
 //#define HVFLYCOLOR_F051
 //#define FLASHHOBBY_F051
